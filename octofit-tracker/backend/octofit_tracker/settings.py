@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-4e$#m))iy*0*+zg9d@s(sjo72t)x9o2o9&bf@!-p151rohf)55
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'curly-space-eureka-8000.app.github.dev']
 
 
 # Application definition
